@@ -1,4 +1,4 @@
 a=10
 b=5
 sum=a+b
-print("Sum of 10 and 5 s %d",sum)
+print("Sum of 10 and 5 is %d",sum)
